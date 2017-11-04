@@ -11,7 +11,7 @@ yarn add jsonschema-validator
 ## Uses
 
 ```javascript
-const { createValidateWithAjv } = require('jsonschema-validator')
+const { createValidateWithAjv } = require('jsonschema-validate')
 const schema = {
   type: 'object',
   properties: {
