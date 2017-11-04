@@ -5,7 +5,7 @@ Ajv base JSON Schema validator tool
 ## Installation
 
 ```
-yarn add jsonschema-validator
+yarn add jsonschema-validate
 ```
 
 ## Uses
