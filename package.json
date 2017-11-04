@@ -1,0 +1,25 @@
+{
+  "name": "jsonschema-validate",
+  "description": "JSON Schema validate tools by Ajv",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest ./__test__/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeinfree/jsonschema-validate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madeinfree/jsonschema-validate/issues"
+  },
+  "homepage": "https://github.com/madeinfree/jsonschema-validate#readme",
+  "author": "Whien_Liou <sal95610@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
